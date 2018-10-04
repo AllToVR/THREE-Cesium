@@ -1,5 +1,5 @@
 # THREE-Cesium
-Interactive cesiumJS and THREEjs
+Interactive CesiumJS and THREEjs
 
 This project started with Cesium-threejs-experiment by Wilson Mukar. Please read the original posts here: https://cesium.com/blog/2017/10/23/integrating-cesium-with-threejs/
 
@@ -26,6 +26,7 @@ Location of script files		This will be the location of the files on your server.
 
 Here are the basic operating instructions of the HTML screen:
 Click on “Load Local Files” button. You can load all of them or just select the ones you want to display.
+
 Globe:
 Bottom right of globe is the “Full Screen” button. This system is best viewed in this mode!
 Click on the ? for instruction on mouse controls
@@ -37,6 +38,7 @@ Clicking on the little camera in the top left corner of the transaction details 
 The Chart Area:
 Clicking on a chart will zoom the globe.
 Clicking on a transaction (small box) will zoom the globe and display the transaction details.
+
 Controls:
 Left click + drag = rotate
 Right click + drag = left, right, up, down
@@ -45,5 +47,5 @@ Scroll wheel = zoom in/out
 Conclusion:
 This project will drastically improve the quality of “Data Presentation” by bringing together the best of both 3D worlds used in today’s technology.
 I look forward to the day when all of this functionality is incorporated into CesiumJS and THREEjs masters.
-Mr. Rue LaRue
+
 
